@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prabin Buddhacharya</h1>
-<h3 align="center">An Aspiring Full Stack Developer. Currently Focusing in Frontend Development...</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beprabin&label=Profile%20views&color=0e75b6&style=flat" alt="beprabin" /> </p>
-
-- 🔭 I’m currently working on **College Final Project**
-
-- 🌱 I’m currently learning **Angular**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
